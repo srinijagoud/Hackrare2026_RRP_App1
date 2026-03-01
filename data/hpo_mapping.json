@@ -1,0 +1,26 @@
+{
+  "HP_0001609": {
+    "label": "Hoarse voice",
+    "synonyms": ["dysphonia", "voice change", "weak voice"]
+  },
+  "HP_0010307": {
+    "label": "Stridor",
+    "synonyms": ["noisy breathing", "high-pitched breathing"]
+  },
+  "HP_0002094": {
+    "label": "Dyspnea",
+    "synonyms": ["shortness of breath", "labored breathing"]
+  },
+  "HP_0006536": {
+    "label": "Airway obstruction",
+    "synonyms": ["airway blocked", "obstructed airway"]
+  },
+  "HP_0012735": {
+    "label": "Cough",
+    "synonyms": ["chronic cough"]
+  },
+  "HP_0002205": {
+    "label": "Recurrent respiratory infections",
+    "synonyms": ["frequent chest infections", "repeated RTI"]
+  }
+}

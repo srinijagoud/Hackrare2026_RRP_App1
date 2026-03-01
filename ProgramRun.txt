@@ -1,0 +1,15 @@
+Steps:
+==========
+1. requirements.txt - Run Requirements file in the beginning
+
+2. app.py - add dataset path here
+
+3. RF_model.py - run model in terminal 
+
+4. app.py - run streamlit demo app (as streamlit run <filename>)
+
+
+
+Notes:
+------
+data_creation : This file used to generate synthetic data with values retrieved from real time patient data.
